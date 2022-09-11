@@ -1,1 +1,2 @@
-# resources
+# Resources
+Storing files for use. 
