@@ -1,2 +1,2 @@
 # Resources
-Storing files for use. 
+Useful files for future use or sharing with others.  
